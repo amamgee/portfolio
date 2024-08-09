@@ -13,7 +13,7 @@ This website showcases my work, skills, and projects. It is designed to give pot
 ## Features
 
 - **Responsive Design:** The website is fully responsive and works on all devices.
-- **Projects:** Detailed descriptions and links to my projects.
+- **Clients:** Selected clients I am working with.
 - **Skills:** A list of my technical skills.
 - **Contact:** Information on how to get in touch with me.
 
